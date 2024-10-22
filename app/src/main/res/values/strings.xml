@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CatApp</string>
+    <string name="loading_cats_error">Error while loading cats</string>
+    <string name="cat_list_title">Cat App</string>
+    <string name="cat_image_description">Cat Image</string>
+    <string name="add_favourite_description">Click to add favourite</string>
+    <string name="remove_favorite_description">Click to remove favourite</string>
+    <string name="breed_name_tag">Breed Name</string>
+    <string name="breed_temperament_tag">Breed Temperament</string>
+    <string name="breed_description_tag">Breed Description</string>
+    <string name="breed_image_description">Breed Image</string>
+    <string name="loading_details_error">Error while loading details</string>
+    <string name="detail_screen_title">Cat Details</string>
+    <string name="back_icon_description">Tap to go back</string>
+    <string name="clear_local_storage">Tap to clear local storage</string>
+    <string name="clear_cache_reload_menu_item">Clear Cache and Reload</string>
+    <string name="favourite_cats_menu_item">Favourite Cats</string>
+    <string name="menu_items">Menu Items on Cat list screen</string>
+    <string name="favourite_cat_list">Favourite Cats</string>
+    <string name="no_favourites_title">No Favourites!</string>
+    <string name="unknown_breed">Unknown Breed</string>
+    <string name="empty_screen_message">No data available</string>
+    <string name="loading_description">Loading the result</string>
+    <string name="list_tag">List Tag</string>
+    <string name="loading_more">Loading more</string>
+</resources>
